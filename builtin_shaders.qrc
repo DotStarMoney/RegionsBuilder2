@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>sprite.frag</file>
+        <file>sprite.vert</file>
+        <file>lineart.frag</file>
+        <file>lineart.vert</file>
+        <file>text.frag</file>
+        <file>text.vert</file>
+        <file>text_deprecated.frag</file>
+        <file>text_deprecated.vert</file>
+        <file>flat.frag</file>
+        <file>flat.vert</file>
+    </qresource>
+</RCC>

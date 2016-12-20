@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/qss_icons">
+        <file>rc/up_arrow_disabled.png</file>
+        <file>rc/Hmovetoolbar.png</file>
+        <file>rc/stylesheet-branch-end.png</file>
+        <file>rc/branch_closed-on.png</file>
+        <file>rc/stylesheet-vline.png</file>
+        <file>rc/branch_closed.png</file>
+        <file>rc/branch_open-on.png</file>
+        <file>rc/transparent.png</file>
+        <file>rc/right_arrow_disabled.png</file>
+        <file>rc/sizegrip.png</file>
+        <file>rc/close.png</file>
+        <file>rc/down_arrow.png</file>
+        <file>rc/Vmovetoolbar.png</file>
+        <file>rc/left_arrow.png</file>
+        <file>rc/stylesheet-branch-more.png</file>
+        <file>rc/up_arrow.png</file>
+        <file>rc/right_arrow.png</file>
+        <file>rc/left_arrow_disabled.png</file>
+        <file>rc/Hsepartoolbar.png</file>
+        <file>rc/checkbox.png</file>
+        <file>rc/branch_open.png</file>
+        <file>rc/Vsepartoolbar.png</file>
+        <file>rc/down_arrow_disabled.png</file>
+        <file>rc/undock.png</file>
+    </qresource>
+    <qresource prefix="/qdarkstyle">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/misc">
+        <file>RBicon.png</file>
+        <file>rgba8.png</file>
+        <file>gfx/tree.png</file>
+        <file>Qotd.txt</file>
+    </qresource>
+    <qresource prefix="/icons/tools">
+        <file>Icons/ico1.png</file>
+        <file>Icons/ico2.png</file>
+        <file>Icons/ico3.png</file>
+        <file>Icons/ico4.png</file>
+        <file>Icons/ico5.png</file>
+        <file>Icons/ico6.png</file>
+        <file>Icons/ico7.png</file>
+        <file>Icons/ico8.png</file>
+        <file>Icons/ico9.png</file>
+        <file>Icons/ico10.png</file>
+        <file>Icons/magnet.png</file>
+    </qresource>
+    <qresource prefix="/gfx">
+        <file>gfx/back.png</file>
+        <file>gfx/hnight.png</file>
+        <file>gfx/sliceBack.png</file>
+        <file>gfx/sliceLoad.png</file>
+        <file>gfx/regionsLogo.png</file>
+        <file>gfx/minimapback2.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/MyriadPro_48.fnt</file>
+        <file>fonts/MyriadPro_48.png</file>
+        <file>fonts/MyriadPro_20.fnt</file>
+        <file>fonts/MyriadPro_20.png</file>
+        <file>fonts/CourierNew_8.fnt</file>
+        <file>fonts/CourierNew_8.png</file>
+    </qresource>
+</RCC>
